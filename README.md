@@ -1,4 +1,4 @@
-## Dice Challenge
+# Dice Challenge
 - It's a simple dice challenge made using JavaScript.
 
 ## Demo
